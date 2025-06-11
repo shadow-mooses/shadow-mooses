@@ -15,8 +15,3 @@ I have also creatd some simple web applications using Flask.
 ## What am I working on now?
 
 I'm currently learning DBT for data transformation.
-
-<!---
-shadow-mooses/shadow-mooses is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
