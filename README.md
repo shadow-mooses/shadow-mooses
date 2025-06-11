@@ -1,6 +1,6 @@
 ## Greetings!
 
-My Name is Will, I've been managing enterprise data for almost a decade working with a variety of RDMS and working at specialty retail companies on a global scale.
+My Name is Will, I've been managing enterprise data for almost a decade working for specialty retail companies leveraging a variety of RDMS.
 
 ## What do I do?
 
@@ -9,6 +9,8 @@ I've recently pivoted to more of a technical role, after graduating from a cours
 I've also used computation layers like pyspark and dask to process big data.
 
 Dabbling a bit in reinforcement learning and neural nets I can use linear regression with libraries like Pandas, SKLearn, Numpy, Matplotlib.
+
+I have also creatd some simple web applications using Flask.
 
 ## What am I working on now?
 
