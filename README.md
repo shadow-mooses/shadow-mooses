@@ -1,6 +1,6 @@
 ## Greetings!
 
-My Name is Will, I've been managing enterprise data for almost a decade working with a variety of RDMS.
+My Name is Will, I've been managing enterprise data for almost a decade working with a variety of RDMS and working at specialty retail companies on a global scale.
 
 ## What do I do?
 
