@@ -4,7 +4,7 @@ My Name is Will, I've been managing enterprise data for almost a decade working 
 
 ## What do I do?
 
-I've recently pivoted to more of a technical role, after graduating from a course at MIT. learning more about development and setting up ETL/ELT pipelines to cloud storage/computing clusters with orchestration tools like Airflow.
+After graduating from a Data Engineering Course at MIT, I've pivoted to more of a technical role. learning more about development and setting up ETL/ELT pipelines to cloud storage/computing clusters with orchestration tools like Airflow.
 
 I've also used computation layers like pyspark and dask to process big data.
 
