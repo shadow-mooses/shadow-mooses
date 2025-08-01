@@ -15,3 +15,7 @@ I have also creatd some simple web applications using Flask.
 ## What am I working on now?
 
 I'm currently learning DBT for data transformation.
+
+## What am I dabbling with?
+
+I have really enjoyed some rudimentary software development. I made a task tracker that logs daily tasks with time stamps as well as an app that cleans up a local directory and organizes files based on their extension type. Both of these are in my public repositories.
