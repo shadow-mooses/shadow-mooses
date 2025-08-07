@@ -18,4 +18,4 @@ I'm currently learning DBT for data transformation.
 
 ## What am I dabbling with?
 
-I have really enjoyed some rudimentary software development. I made a task tracker that logs daily tasks with time stamps as well as an app that cleans up a local directory and organizes files based on their extension type. Both of these are in my public repositories.
+I have really enjoyed some fundamental software development. I made an interactive task tracker using python, jinja and flask library where users can log daily tasks with time stamps and session cookies for security. I also wrote as well as an app that cleans up a local file directory and organizes files based on their extension type. Both of these are in my public repositories.
