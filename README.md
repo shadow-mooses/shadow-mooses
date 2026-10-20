@@ -14,4 +14,6 @@ I have also creatd some simple web applications using Flask.
 
 ## What am I working on now?
 
-I'm currently learning DBT for data transformation.
+I'm currently learning DBT for data transformation, creating a mock up ecommerce company that ingests orders and then leverages dbt to transform the operational data into real data that merchandisers and sales can use.
+
+Also creating apps and deploying local ai models on my homelab.
